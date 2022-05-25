@@ -18,4 +18,4 @@
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yutkat&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=miyakeylab&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
