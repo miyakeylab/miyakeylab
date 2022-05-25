@@ -13,8 +13,9 @@
   <a href="http://qiita.com/kumamon_engineer">
     <img height="20" src="https://qiita-badge.apiapi.app/s/kumamon_engineer/posts.svg" />
   </a>
-  <//qiita.com/kumamon_engineer">
+  <a href="http:////qiita.com/kumamon_engineer">
     <img height="20" src="https://qiita-badge.apiapi.app/s/kumamon_engineer/contributions.svg" />
   </a>
 </p>
-  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yutkat&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
