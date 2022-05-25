@@ -18,4 +18,6 @@
   </a>
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miyakeylab&count_private=true&theme=tokyonight)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=miyakeylab&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
