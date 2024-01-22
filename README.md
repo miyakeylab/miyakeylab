@@ -1,9 +1,6 @@
 ### Hi there, I'm miyakeylab👋
 
 <p align="left">
-  <a href="http://twitter.com/miyakey7">
-    <img height="20" src="https://img.shields.io/twitter/follow/miyakey7?label=Twitter&logo=twitter&style=flat" />
-  </a>
   <a href="https://github.com/miyakeylab/miyakeylab/">
     <img src="https://komarev.com/ghpvc/?username=miyakeylab" alt="miyakeylab" />
   </a>
@@ -17,8 +14,6 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/kumamon_engineer/contributions.svg" />
   </a>
 </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miyakeylab&count_private=true&theme=tokyonight)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=miyakeylab&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
